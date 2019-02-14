@@ -1,0 +1,21 @@
+.jumbotron {
+text-align: center;
+background-color: white;
+font-family: 'Poppins', sans-serif;
+margin: 20px 30px 0 30px;
+
+}
+
+body{
+    background-image: url("https://images.pexels.com/photos/1150626/pexels-photo-1150626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+.survey {
+    background-image: url(https://images.pexels.com/photos/1152661/pexels-photo-1152661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
